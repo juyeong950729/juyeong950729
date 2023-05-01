@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🗂 Portfolio
 
 #### Youtube
-<img src="https://img.shields.io/badge/Juyeong's youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"> My Youtube
+<a href="https://www.youtube.com/@user-wv5nk1iq4k/featured"><img src="https://img.shields.io/badge/Juyeong's youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a> My Youtube
 
 #### Team Project
 <a href="https://github.com/JGwanghou/Photostagram_"><img src="https://img.shields.io/badge/Photostagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> Project Photostagram Github
